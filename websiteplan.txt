@@ -1,0 +1,94 @@
+Website Plan
+
+Planned Pages
+Title Page: index.html
+Visual Studios Code Editor: editor.html
+HTML Page: semantic.html
+CSS Page: stylelayout.html
+Accessibility Page: accessibility.html
+Ethical Issues Around Web Development Page: ethical_issues.html
+Code Validation Page: validation.html
+Use of A.I Page: ai.html
+
+Content Details for Each Page
+Page 1: The title page will consist of the title of this final project, a description of why I chose this course. The navigation bar will be included to help users navigate through the webpage. Also, a link to my GitHub profile will be included. 
+Page 2:  This page will explain how Visual Studio Code is used to organize html, css styling, images, and other files. This page will also include a video briefly explaining how Visual Studio Code is used. 
+Page 3: This page will explain the meaning of HTML and example the usage of semantic tags such as main, nav, and footer. This page will also include a youtube video that shows how to use html code and a link to a website that does extra explanation on html concepts. 
+Page 4:  This page will explain common layouts such as Grid and Flexbox. It will contain a description of how CSS styling helps define how the website is presented such as colors, fonts, and positioning. A table will be included to compare Flexbox vs. Grid layout. This page will also include a link to a website that helps explain CSS layout and styling more in depth. A youtube video will also be provided to explain more about CSS concepts. 
+Page 5: This page will explain how important it is for a website to be accessible for impaired individuals. It will show how alt text, color contrast, animations, and keyboard navigation helps people with disabilities access the website. It will include a youtube video explaining more about websites that are accessible vs. websites that are not accessible. 
+Page 6: This page will describe ethical issues such as giving credit to the original creators of the media used on your webpage and explain why web developers should be cautious about what they included on their webpage. This page will include a youtube video explaining deeper about ethical issues and a link to an article that talks more about ethical issues that occur in web development. 
+Page 7: This page will describe how important it is to check on your codes and validate them so that there are no errors when the website is published. This page will include a video where it explains the importance of code validation and also website links to HTML and CSS code validators. 
+Page 8: This page will explain the usage of artificial intelligence in your work. Artificial intelligence can be useful to brainstorm ideas for the webpage and debug errors in the code. This page will also talk about how you should avoid copying straight from AI generated codes and always use your own code. This page will include a video about using AI for web development and a link to an article that talks about how AI has affected web development.
+
+Planned Media & Assets
+	Page 1: 
+	Image: title.png
+	A list will be included on the navigation bar for each page of the website. 
+	Page 2:
+	Image: visualstudiocode.png
+	https://code.visualstudio.com/docs/getstarted/getting-started
+	https://www.youtube.com/watch?v=beJ8fDbX9vs
+	Page 3:
+	Image: html.png
+	This page will include an image
+	https://www.w3schools.com/html/
+	https://www.youtube.com/watch?v=vY2xUc4TVmY
+	Page 4:
+	Image: css.png
+	Table: Compare the pros and cons of Flexbox vs. Grid CSS Layout
+	https://www.w3schools.com/css/css_website_layout.asp
+	https://www.youtube.com/watch?v=JnTPd9G6hoY
+	Page 5:
+	Image: accessibility.png
+https://www.forbes.com/councils/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/
+https://www.youtube.com/watch?v=wk5Im_gaCII
+	Page 6:
+	Image: ethical.png
+https://www.sae.edu/gbr/insights/ethical-considerations-in-web-design-and-development/
+https://www.youtube.com/watch?v=FLbJUUYubkY
+	Page 7:
+	Image: validator.png
+	https://validator.w3.org/nu/#file
+	https://jigsaw.w3.org/css-validator/#validate_by_upload
+	https://www.youtube.com/watch?v=VIgxwR9AVrk
+https://www.geeksforgeeks.org/html/what-is-html-validation-and-why-is-it-important-for-seo/
+Page 8:  
+Image: ai.png 
+https://www.ironhack.com/us/blog/the-role-of-artificial-intelligence-in-web-development
+https://www.youtube.com/watch?v=rGyGavlg6i4
+
+Navigation Plan
+The navigation bar will consist of the home page, HTML, CSS, Accessibility, Ethical Issues Around Web Development, Code Validation, and Artificial Intelligence Usage. 
+The users will be able to navigate to all of the topic pages mentioned above just by clicking on it. 
+
+Accessibility Considerations
+All embedded media will include an alt text that has a description of the media. 
+Every page will use h1 for the title of the page, h2 for the main sections, and possibly h3 for smaller subsections. 
+Yes, I will use color combinations that meet the color contrast guidelines. 
+
+File and Folder Plan
+	FinalProject Folder/
+			index.html
+		/pages:
+			editor.html
+			semantic.html
+			stylelayout.html
+			accessibility.html
+			ethical_issues.html
+			validation.html
+			ai.html
+		/css
+			styles.css
+	/img
+		title.png
+		visualstudiocode.png
+		html.png
+		css.png
+		accesibility.png
+		ethical.png
+		validation.png
+		ai.png
+
+Code Validation
+I plan to use the tools such as the W3C HTML and CSS Validators to check for errors on my code. 
+If there are any errors, they will be corrected before the finalized webpage is submitted. 
