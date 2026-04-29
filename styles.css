@@ -1,0 +1,176 @@
+body {
+    background-color: white;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    text-align: center;
+    padding: 25px;
+    background-color: darkslateblue;
+}
+.heading {
+    color: white;
+    font-size: large;
+    font-weight: 500;
+    font-style: normal;
+}
+.heading_style {
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-shadow: 4px 3px 3px darkblue;
+}
+.navigation {
+    display: grid;
+    width: auto;
+    height: 200px;
+    background:lightsteelblue;
+}
+.navigation-bar {
+    display: grid;
+    width: 100%;
+}
+.nav_style {
+    width: 100%;
+    margin: 7px;
+    display: grid;
+    justify-content: left;
+    list-style:none;
+}
+.item a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    color:black;
+    transition: color 0.3s ease;
+    letter-spacing: 2px;
+    display: inline-block;
+}
+.item a:hover {
+    color: darkblue;
+    transform: scale(1.2);
+}
+.class {
+    display: grid;
+    text-align: center;
+    margin: auto;
+}
+.info {
+    display: grid;
+    font-size: large;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.credit {
+    text-align: center;
+    font-style: italic;
+    color: rgba(150,148,148);
+}
+footer {
+    text-align: center; 
+    background-color: darkslateblue;
+    margin:0;
+    padding: 15px;
+    color: white;
+}
+.footer {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    transition: color 0.3s ease;
+}
+.footer:hover {
+    color: yellow;
+    transform: scale(1.2);
+}
+.blockhead {
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.description {
+    font-size: large;
+    font-style: italic;
+}
+.media-item {
+    padding: 15px;
+    align-items: center;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    padding: 30px;
+}
+.link {
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.link:hover {
+    color: yellow;
+    transform: scale(1.2);
+}
+.validator {
+    text-align: center;
+}
+iframe {
+    width: 525px;
+    height: 250px;
+    border: 0;
+  }
+@media (max-width: 768px) {
+
+    header {
+        padding: 15px;
+    }
+
+    .heading {
+        font-size: medium;
+    }
+
+    .navigation {
+        height: auto;
+        padding: 10px;
+    }
+
+    .nav_style {
+        justify-content: center;
+        text-align: center;
+        margin: 5px 0;
+    }
+
+    .item a {
+        font-size: 13px;
+        display: block;
+        padding: 8px 0;
+    }
+
+    .class {
+        padding: 10px;
+    }
+
+    .info {
+        font-size: medium;
+        padding: 10px;
+    }
+
+    .picture {
+        width: 90%;
+    }
+
+    footer {
+        padding: 10px;
+        font-size: 14px;
+    }
+}
