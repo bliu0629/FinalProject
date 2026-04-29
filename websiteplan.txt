@@ -35,7 +35,6 @@ Planned Media & Assets
 	https://www.youtube.com/watch?v=vY2xUc4TVmY
 	Page 4:
 	Image: css.png
-	Table: Compare the pros and cons of Flexbox vs. Grid CSS Layout
 	https://www.w3schools.com/css/css_website_layout.asp
 	https://www.youtube.com/watch?v=JnTPd9G6hoY
 	Page 5:
